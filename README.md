@@ -20,6 +20,15 @@ The tool operates completely offline and supports containerized execution via Do
 | Model Size <200MB    | ✔️ (No ML model) |
 | JSON Output          | ✔️ Compliant |
 
+# Docker Images
+
+docker pull ldawkar558/adobe-round1
+docker run --rm \
+  -v $(pwd)/input:/app/input \
+  -v $(pwd)/output:/app/output \
+  --network none \
+  ldawkar558/adobe-round1
+
 
 ##  Project Structure
 ```text
