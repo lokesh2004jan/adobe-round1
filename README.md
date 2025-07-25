@@ -5,11 +5,11 @@ A lightweight solution developed for Adobe GenAI Hackathon Round 1A that extract
 The tool operates completely offline and supports containerized execution via Docker.
 
 ## Key Features
-✅ **Offline Operation** - No internet/API dependencies  
-✅ **Hierarchical Extraction** - Identifies H1/H2/H3 headings by font size  
-✅ **Structured JSON Output** - Clean, machine-readable document outlines  
-✅ **Docker-Compatible** - Reproducible builds on linux/amd64  
-✅ **Optimized Performance** - Processes documents in <10 seconds  
+ **Offline Operation** - No internet/API dependencies  
+ **Hierarchical Extraction** - Identifies H1/H2/H3 headings by font size  
+ **Structured JSON Output** - Clean, machine-readable document outlines  
+ **Docker-Compatible** - Reproducible builds on linux/amd64  
+ **Optimized Performance** - Processes documents in <10 seconds  
 
 ## Technical Specifications
 | Requirement          | Status      |
