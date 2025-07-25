@@ -20,7 +20,6 @@ The tool operates completely offline and supports containerized execution via Do
 | Model Size <200MB    | ✔️ (No ML model) |
 | JSON Output          | ✔️ Compliant |
 
-## Project Structure
 
 ##  Project Structure
 ```text
