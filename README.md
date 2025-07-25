@@ -29,7 +29,6 @@ The tool operates completely offline and supports containerized execution via Do
 │   ├── input/          # PDF input directory (mount point)
 │   ├── output/         # JSON results directory
 │   └── main.py         # Core extraction engine
-├── tests/              # (Optional) Test cases
 ├── Dockerfile          # Production-grade container setup
 ├── requirements.txt    # Pinned dependencies
 └── README.md           # This documentation
